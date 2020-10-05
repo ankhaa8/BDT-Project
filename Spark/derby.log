@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Oct 04 09:10:00 PDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0174-f460-7f6c-00000b92b7f0 
+on database directory /tmp/spark-71ecdc01-dc65-4064-accb-c4983914dd1c/metastore with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/home/cloudera/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=/home/cloudera/cs523/BDTproject/Spark
+os.name=Linux
+os.arch=amd64
+os.version=2.6.32-573.el6.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
