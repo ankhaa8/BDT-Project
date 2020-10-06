@@ -7,7 +7,7 @@ sudo yum install kafka-server
 # Start Zookeeper
 sudo service zookeeper-server restart
 
-#Start Kafka bloker
+#Start Kafka broker
 sudo service kafka-server restart
  
 # Create a topic on Kafka
