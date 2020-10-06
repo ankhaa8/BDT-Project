@@ -1,5 +1,3 @@
--- Author: Ankhtuya Ochirbat
-
 
 # Kafka installation
 sudo yum clean all
